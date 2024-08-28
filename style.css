@@ -52,6 +52,7 @@ body {
   grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 .play-board .food {
+  border-radius: 50%;
   background: #FF003D;
 }
 .play-board .head {
